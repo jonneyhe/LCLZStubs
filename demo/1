@@ -1,0 +1,32 @@
+{
+    "appName": "Woolworths",
+    "images": {
+        "launch_image": "https: //localz.io/demo/images/<demoId>/background.png",
+        "main_bg_img": "https://localz.io/demo/images/<demoId>/main.png",
+        "logo": "https://localz.io/demo/images/<demoId>/logo.png"
+    },
+    "features": [
+        {
+            "feature": "zapier",
+            "writeKey": "XXXXXXXXXXX"
+        },
+        {
+            "feature": "hockeyapp",
+            "hockeyId": "123123123123123213"
+        },
+        {
+            "feature": "cnc",
+            "sdkKey": "123123-123-123-123-123",
+            "sdkId": "123123-123-1231-23123"
+        },
+        {
+            "feature": "superstore",
+            "sdkKey": "12312123123123123",
+            "sdkId": "3453454345345345"
+        }
+    ],
+    "uicustoms": {
+        "shopping_list_btn": false,
+        "demo_reset_btn": "false"
+    }
+}
