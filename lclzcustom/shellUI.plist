@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MainLeftMenuView</key>
+	<dict>
+		<key>tableView</key>
+		<array>
+			<dict>
+				<key>imageView</key>
+				<string>pics/ingredients.png</string>
+				<key>titleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>22</string>
+					<key>text</key>
+					<string>The first item</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageView</key>
+				<string>ingredients.png</string>
+				<key>titleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>22</string>
+					<key>text</key>
+					<string>The second item</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageView</key>
+				<string>ingredients.png</string>
+				<key>titleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>22</string>
+					<key>text</key>
+					<string>The third item</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageView</key>
+				<string>ingredients.png</string>
+				<key>titleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>22</string>
+					<key>text</key>
+					<string>The fourth item</string>
+				</dict>
+			</dict>
+		</array>
+		<key>titleLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string>#000000</string>
+			<key>textColor</key>
+			<string>#FFFFFF</string>
+			<key>fontSize</key>
+			<string>22</string>
+			<key>text</key>
+			<string>Tony·Stark</string>
+		</dict>
+		<key>detailsLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string>#000000</string>
+			<key>textColor</key>
+			<string>#FFFFFF</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>text</key>
+			<string>This is a test</string>
+		</dict>
+		<key>userImageView</key>
+		<dict>
+			<key>image</key>
+			<string>pics/userAvatar.png</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
