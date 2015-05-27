@@ -5,60 +5,95 @@
 	<key>MainLeftMenuView</key>
 	<dict>
 		<key>tableView</key>
-		<array>
-			<dict>
-				<key>imageView</key>
-				<string>pics/ingredients.png</string>
-				<key>titleLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string>#000000</string>
+			<key>separatorColor</key>
+			<string>#FFFFFF</string>
+			<key>cells</key>
+			<array>
 				<dict>
-					<key>textColor</key>
-					<string>#000000</string>
-					<key>fontSize</key>
-					<string>22</string>
-					<key>text</key>
-					<string>The first item</string>
+					<key>titleLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Main menu</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
 				</dict>
-			</dict>
-			<dict>
-				<key>imageView</key>
-				<string>ingredients.png</string>
-				<key>titleLabel</key>
 				<dict>
-					<key>textColor</key>
-					<string>#000000</string>
-					<key>fontSize</key>
-					<string>22</string>
-					<key>text</key>
-					<string>The second item</string>
+					<key>titleLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Shopping cart</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
 				</dict>
-			</dict>
-			<dict>
-				<key>imageView</key>
-				<string>ingredients.png</string>
-				<key>titleLabel</key>
 				<dict>
-					<key>textColor</key>
-					<string>#000000</string>
-					<key>fontSize</key>
-					<string>22</string>
-					<key>text</key>
-					<string>The third item</string>
+					<key>titleLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Find store</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
 				</dict>
-			</dict>
-			<dict>
-				<key>imageView</key>
-				<string>ingredients.png</string>
-				<key>titleLabel</key>
 				<dict>
-					<key>textColor</key>
-					<string>#000000</string>
-					<key>fontSize</key>
-					<string>22</string>
-					<key>text</key>
-					<string>The fourth item</string>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
+					<key>titleLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Contact us</string>
+					</dict>
 				</dict>
-			</dict>
-		</array>
+				<dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
+					<key>titleLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Reset demo app</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
 		<key>titleLabel</key>
 		<dict>
 			<key>backgroundColor</key>
