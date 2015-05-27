@@ -6,6 +6,10 @@
 	<dict>
 		<key>tableView</key>
 		<dict>
+			<key>separatorInset</key>
+			<string>{0, 0, 0, 0}</string>
+			<key>rowHeight</key>
+			<string>55</string>
 			<key>backgroundColor</key>
 			<string>#000000</string>
 			<key>separatorColor</key>
