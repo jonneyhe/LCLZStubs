@@ -13,7 +13,7 @@
 			<key>cells</key>
 			<array>
 				<dict>
-					<key>titleLabel</key>
+					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
 						<string>#FFFFFF</string>
@@ -29,7 +29,7 @@
 					</dict>
 				</dict>
 				<dict>
-					<key>titleLabel</key>
+					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
 						<string>#FFFFFF</string>
@@ -45,7 +45,7 @@
 					</dict>
 				</dict>
 				<dict>
-					<key>titleLabel</key>
+					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
 						<string>#FFFFFF</string>
@@ -66,7 +66,7 @@
 						<key>image</key>
 						<string>pics/items.png</string>
 					</dict>
-					<key>titleLabel</key>
+					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
 						<string>#FFFFFF</string>
@@ -82,7 +82,7 @@
 						<key>image</key>
 						<string>pics/items.png</string>
 					</dict>
-					<key>titleLabel</key>
+					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
 						<string>#FFFFFF</string>
