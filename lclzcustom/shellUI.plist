@@ -4,6 +4,17 @@
 <dict>
 	<key>MainLeftMenuView</key>
 	<dict>
+		<key>infoLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string>#000000</string>
+			<key>textColor</key>
+			<string>#FFFFFe</string>
+			<key>fontSize</key>
+			<string>16</string>
+			<key>text</key>
+			<string>You have 2 orders</string>
+		</dict>
 		<key>tableView</key>
 		<dict>
 			<key>separatorInset</key>
@@ -98,7 +109,7 @@
 				</dict>
 			</array>
 		</dict>
-		<key>titleLabel</key>
+		<key>nameLabel</key>
 		<dict>
 			<key>backgroundColor</key>
 			<string>#000000</string>
