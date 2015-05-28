@@ -6,7 +6,7 @@
 	<dict>
 		<key>separator</key>
 		<dict>
-			<key>backgroudColor</key>
+			<key>backgroundColor</key>
 			<string>#dddddd</string>
 		</dict>
 		<key>infoLabel</key>
