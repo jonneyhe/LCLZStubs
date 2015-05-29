@@ -18,6 +18,11 @@
 	</dict>
 	<key>MainMenuView</key>
 	<dict>
+		<key>infoBackgroudImageView</key>
+		<dict>
+			<key>image</key>
+			<string>pics/infoBg.png</string>
+		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>tableView</key>
@@ -61,7 +66,7 @@
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/icon1.png</string>
+						<string>pics/icon2.png</string>
 					</dict>
 				</dict>
 				<dict>
@@ -77,12 +82,12 @@
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/icon1.png</string>
+						<string>pics/icon3.png</string>
 					</dict>
 					<key>rightImageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/icon1.png</string>
+						<string>pics/icon3small.png</string>
 					</dict>
 				</dict>
 				<dict>
@@ -98,7 +103,7 @@
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/icon1.png</string>
+						<string>pics/icon4.png</string>
 					</dict>
 				</dict>
 			</array>
