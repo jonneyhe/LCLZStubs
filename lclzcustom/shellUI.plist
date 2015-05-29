@@ -29,7 +29,7 @@
 			<key>backgroundColor</key>
 			<string>#ffffff</string>
 			<key>separatorColor</key>
-			<string>#d8d8d8d8</string>
+			<string>#d8d8d8</string>
 			<key>cells</key>
 			<array>
 				<dict>
