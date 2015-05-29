@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Global</key>
+	<dict>
+		<key>navigationBar</key>
+		<dict>
+			<key>titleColor</key>
+			<string>#ffffff</string>
+			<key>backgroundColor</key>
+			<string>#e65b5e</string>
+			<key>backgroundImage</key>
+			<string></string>
+		</dict>
+	</dict>
 	<key>MainLeftMenuView</key>
 	<dict>
 		<key>separator</key>
