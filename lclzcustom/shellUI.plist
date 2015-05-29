@@ -18,7 +18,7 @@
 	</dict>
 	<key>MainMenuView</key>
 	<dict>
-		<key>infoBackgroudImageView</key>
+		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
 			<string>pics/infoBg.png</string>
