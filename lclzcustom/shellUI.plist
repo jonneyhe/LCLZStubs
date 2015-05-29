@@ -38,14 +38,14 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>20</string>
 						<key>text</key>
 						<string>Specials &amp; Promotions</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/icon1.png</string>
 					</dict>
 				</dict>
 				<dict>
@@ -54,14 +54,14 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>20</string>
 						<key>text</key>
 						<string>Products explore</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/icon1.png</string>
 					</dict>
 				</dict>
 				<dict>
@@ -70,19 +70,19 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>20</string>
 						<key>text</key>
 						<string>Click &amp; Collect</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/icon1.png</string>
 					</dict>
 					<key>rightImageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/icon1.png</string>
 					</dict>
 				</dict>
 				<dict>
@@ -91,14 +91,14 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>20</string>
 						<key>text</key>
 						<string>Push Locate</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/icon1.png</string>
 					</dict>
 				</dict>
 			</array>
