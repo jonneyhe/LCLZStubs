@@ -136,7 +136,7 @@
 			<key>textColor</key>
 			<string>#dfe4cb</string>
 			<key>fontSize</key>
-			<string>14</string>
+			<string>10</string>
 			<key>text</key>
 			<string>You have 2 orders are waiting to pickup</string>
 		</dict>
@@ -147,7 +147,7 @@
 			<key>rowHeight</key>
 			<string>55</string>
 			<key>backgroundColor</key>
-			<string>#000000</string>
+			<string>#2b2b2b</string>
 			<key>separatorColor</key>
 			<string>#202020</string>
 			<key>cells</key>
@@ -160,7 +160,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Main menu</string>
 					</dict>
@@ -178,7 +178,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Shopping cart</string>
 					</dict>
@@ -196,7 +196,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Click and Collect Orders</string>
 					</dict>
@@ -214,7 +214,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Home Delivery Orders</string>
 					</dict>
@@ -232,7 +232,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Order History</string>
 					</dict>
@@ -250,7 +250,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Find store</string>
 					</dict>
@@ -268,7 +268,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Contact us</string>
 					</dict>
@@ -286,7 +286,7 @@
 						<key>textColor</key>
 						<string>#FFFFFF</string>
 						<key>fontSize</key>
-						<string>22</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Reset demo app</string>
 					</dict>
