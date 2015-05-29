@@ -132,11 +132,11 @@
 		<key>infoLabel</key>
 		<dict>
 			<key>backgroundColor</key>
-			<string>#000000</string>
+			<string></string>
 			<key>textColor</key>
 			<string>#dfe4cb</string>
 			<key>fontSize</key>
-			<string>10</string>
+			<string>12</string>
 			<key>text</key>
 			<string>You have 2 orders are waiting to pickup</string>
 		</dict>
@@ -149,7 +149,7 @@
 			<key>backgroundColor</key>
 			<string>#2b2b2b</string>
 			<key>separatorColor</key>
-			<string>#202020</string>
+			<string>#4d4d4d</string>
 			<key>cells</key>
 			<array>
 				<dict>
@@ -301,7 +301,7 @@
 		<key>nameLabel</key>
 		<dict>
 			<key>backgroundColor</key>
-			<string>#000000</string>
+			<string></string>
 			<key>textColor</key>
 			<string>#FFFFFF</string>
 			<key>fontSize</key>
@@ -312,7 +312,7 @@
 		<key>detailsLabel</key>
 		<dict>
 			<key>backgroundColor</key>
-			<string>#000000</string>
+			<string></string>
 			<key>textColor</key>
 			<string>#FFFFFF</string>
 			<key>fontSize</key>
