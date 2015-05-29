@@ -6,12 +6,113 @@
 	<dict>
 		<key>navigationBar</key>
 		<dict>
+			<key>buttonColor</key>
+			<string>#ffffff</string>
 			<key>titleColor</key>
 			<string>#ffffff</string>
 			<key>backgroundColor</key>
 			<string>#e65b5e</string>
 			<key>backgroundImage</key>
 			<string></string>
+		</dict>
+	</dict>
+	<key>MainMenuView</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
+		<key>tableView</key>
+		<dict>
+			<key>separatorInset</key>
+			<string>{0, 0, 0, 0}</string>
+			<key>rowHeight</key>
+			<string>100</string>
+			<key>backgroundColor</key>
+			<string>#ffffff</string>
+			<key>separatorColor</key>
+			<string></string>
+			<key>cells</key>
+			<array>
+				<dict>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#505050</string>
+						<key>fontSize</key>
+						<string>28</string>
+						<key>text</key>
+						<string>Specials &amp; Promotions</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#505050</string>
+						<key>fontSize</key>
+						<string>28</string>
+						<key>text</key>
+						<string>Products explore</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#505050</string>
+						<key>fontSize</key>
+						<string>28</string>
+						<key>text</key>
+						<string>Click &amp; Collect</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
+					<key>rightImageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#505050</string>
+						<key>fontSize</key>
+						<string>28</string>
+						<key>text</key>
+						<string>Push Locate</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/items.png</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+		<key>infoLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#FFFFFF</string>
+			<key>fontSize</key>
+			<string>14</string>
+			<key>text</key>
+			<string>Our platform can bring to life a location-barse experience for your enterprise in under 10 minutes.</string>
 		</dict>
 	</dict>
 	<key>MainLeftMenuView</key>
