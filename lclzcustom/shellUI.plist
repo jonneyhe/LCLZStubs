@@ -134,11 +134,11 @@
 			<key>backgroundColor</key>
 			<string>#000000</string>
 			<key>textColor</key>
-			<string>#FFFFFe</string>
+			<string>#dfe4cb</string>
 			<key>fontSize</key>
-			<string>16</string>
+			<string>14</string>
 			<key>text</key>
-			<string>You have 2 orders</string>
+			<string>You have 2 orders are waiting to pickup</string>
 		</dict>
 		<key>tableView</key>
 		<dict>
@@ -149,7 +149,7 @@
 			<key>backgroundColor</key>
 			<string>#000000</string>
 			<key>separatorColor</key>
-			<string>#FFFFFF</string>
+			<string>#202020</string>
 			<key>cells</key>
 			<array>
 				<dict>
@@ -167,10 +167,12 @@
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/leftIcon1.png</string>
 					</dict>
 				</dict>
 				<dict>
+					<key>selectedColor</key>
+					<string>#eeeeee</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -180,15 +182,69 @@
 						<key>text</key>
 						<string>Shopping cart</string>
 					</dict>
-					<key>selectedColor</key>
-					<string>#eeeeee</string>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/leftIcon2.png</string>
 					</dict>
 				</dict>
 				<dict>
+					<key>selectedColor</key>
+					<string>#eeeeee</string>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Click and Collect Orders</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/leftIcon3.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>selectedColor</key>
+					<string>#eeeeee</string>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Home Delivery Orders</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/leftIcon4.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>selectedColor</key>
+					<string>#eeeeee</string>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#FFFFFF</string>
+						<key>fontSize</key>
+						<string>22</string>
+						<key>text</key>
+						<string>Order History</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/leftIcon5.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>selectedColor</key>
+					<string>#eeeeee</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -198,20 +254,13 @@
 						<key>text</key>
 						<string>Find store</string>
 					</dict>
-					<key>selectedColor</key>
-					<string>#eeeeee</string>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/leftIcon6.png</string>
 					</dict>
 				</dict>
 				<dict>
-					<key>imageView</key>
-					<dict>
-						<key>image</key>
-						<string>pics/items.png</string>
-					</dict>
 					<key>selectedColor</key>
 					<string>#eeeeee</string>
 					<key>textLabel</key>
@@ -223,13 +272,13 @@
 						<key>text</key>
 						<string>Contact us</string>
 					</dict>
-				</dict>
-				<dict>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
-						<string>pics/items.png</string>
+						<string>pics/leftIcon7.png</string>
 					</dict>
+				</dict>
+				<dict>
 					<key>selectedColor</key>
 					<string>#eeeeee</string>
 					<key>textLabel</key>
@@ -240,6 +289,11 @@
 						<string>22</string>
 						<key>text</key>
 						<string>Reset demo app</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/leftIcon8.png</string>
 					</dict>
 				</dict>
 			</array>
@@ -264,7 +318,7 @@
 			<key>fontSize</key>
 			<string>18</string>
 			<key>text</key>
-			<string>This is a test</string>
+			<string></string>
 		</dict>
 		<key>userImageView</key>
 		<dict>
