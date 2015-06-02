@@ -122,6 +122,11 @@
 	</dict>
 	<key>MainLeftMenuView</key>
 	<dict>
+		<key>userImageView</key>
+		<dict>
+			<key>image</key>
+			<string>pics/userAvatar.png</string>
+		</dict>
 		<key>separator</key>
 		<dict>
 			<key>alpha</key>
@@ -420,6 +425,8 @@
 				<dict>
 					<key>selectedColor</key>
 					<string>#f8f3ef</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -438,6 +445,8 @@
 				<dict>
 					<key>selectedColor</key>
 					<string>#f8f3ef</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -456,6 +465,8 @@
 				<dict>
 					<key>selectedColor</key>
 					<string>#f8f3ef</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -474,6 +485,8 @@
 				<dict>
 					<key>selectedColor</key>
 					<string>#f8f3ef</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -492,6 +505,8 @@
 				<dict>
 					<key>selectedColor</key>
 					<string>#f8f3ef</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -510,6 +525,8 @@
 				<dict>
 					<key>selectedColor</key>
 					<string>#f8f3ef</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -528,6 +545,8 @@
 				<dict>
 					<key>selectedColor</key>
 					<string>#f8f3ef</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
