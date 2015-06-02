@@ -320,14 +320,24 @@
 			<key>text</key>
 			<string></string>
 		</dict>
-		<key>userImageView</key>
-		<dict>
-			<key>image</key>
-			<string>pics/userAvatar.png</string>
-		</dict>
 	</dict>
 	<key>SpecialListView</key>
 	<dict>
+		<key>shoppingCartButton</key>
+		<dict>
+			<key>titleColor</key>
+			<string>#8c9b47</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>title</key>
+			<string>Shopping Cart</string>
+			<key>image</key>
+			<string></string>
+			<key>backgroundImage</key>
+			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundColor</key>
+			<string></string>
+		</dict>
 		<key>tableView</key>
 		<dict>
 			<key>separatorInset</key>
