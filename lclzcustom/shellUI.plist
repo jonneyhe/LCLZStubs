@@ -565,5 +565,95 @@
 			</array>
 		</dict>
 	</dict>
+	<key>ProductView</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
+		<key>shoppingCartButton</key>
+		<dict>
+			<key>titleColor</key>
+			<string>#8c9b47</string>
+			<key>fontSize</key>
+			<string>16</string>
+			<key>title</key>
+			<string>Shopping Cart</string>
+			<key>image</key>
+			<string></string>
+			<key>backgroundImage</key>
+			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundColor</key>
+			<string></string>
+		</dict>
+		<key>addCartButton</key>
+		<dict>
+			<key>titleColor</key>
+			<string>#8c9b47</string>
+			<key>fontSize</key>
+			<string>16</string>
+			<key>title</key>
+			<string>Add to Cart</string>
+			<key>image</key>
+			<string></string>
+			<key>backgroundImage</key>
+			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundColor</key>
+			<string></string>
+		</dict>
+		<key>titleLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#000000</string>
+			<key>fontSize</key>
+			<string>22</string>
+			<key>text</key>
+			<string>Sunbeam</string>
+		</dict>
+		<key>subtitleLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#000000</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>text</key>
+			<string>Mixmaster 500W Food Mix</string>
+		</dict>
+		<key>descLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#606060</string>
+			<key>fontSize</key>
+			<string>14</string>
+			<key>text</key>
+			<string>An innovative three-way beating action is part of what accounts for this 500W stand</string>
+		</dict>
+		<key>priceTitleLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#000000</string>
+			<key>fontSize</key>
+			<string>14</string>
+			<key>text</key>
+			<string>Price:</string>
+		</dict>
+		<key>priceLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#000000</string>
+			<key>fontSize</key>
+			<string>22</string>
+			<key>text</key>
+			<string>$349.00</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
