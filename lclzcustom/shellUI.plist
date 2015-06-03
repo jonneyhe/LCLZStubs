@@ -655,5 +655,26 @@
 			<string>$349.00</string>
 		</dict>
 	</dict>
+	<key>ProductExplorerView</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
+		<key>infoBackgroundImageView</key>
+		<dict>
+			<key>image</key>
+			<string>pics/infoBg.png</string>
+		</dict>
+		<key>infoLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#FFFFFF</string>
+			<key>fontSize</key>
+			<string>14</string>
+			<key>text</key>
+			<string>Explorer nearby products by placing your phone next to the product information tag</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
