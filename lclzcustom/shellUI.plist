@@ -689,6 +689,8 @@
 			<key>cells</key>
 			<array>
 				<dict>
+					<key>backgroudColor</key>
+					<string>#ffffff</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -714,6 +716,8 @@
 						<key>text</key>
 						<string>Order Id:20202</string>
 					</dict>
+					<key>backgroudColor</key>
+					<string>#ffffff</string>
 					<key>imageView</key>
 					<dict>
 						<key>image</key>
