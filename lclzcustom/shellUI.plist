@@ -676,5 +676,52 @@
 			<string>Explorer nearby products by placing your phone next to the product information tag</string>
 		</dict>
 	</dict>
+	<key>ClickCollectView</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
+		<key>tableView</key>
+		<dict>
+			<key>separatorInset</key>
+			<string>{0, 0, 0, 0}</string>
+			<key>rowHeight</key>
+			<string>100</string>
+			<key>cells</key>
+			<array>
+				<dict>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#505050</string>
+						<key>fontSize</key>
+						<string>20</string>
+						<key>text</key>
+						<string>Order Id:20202</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/icon3.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#505050</string>
+						<key>fontSize</key>
+						<string>20</string>
+						<key>text</key>
+						<string>Order Id:20202</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/icon3.png</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+	</dict>
 </dict>
 </plist>
