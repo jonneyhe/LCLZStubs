@@ -682,49 +682,237 @@
 		<string>#f8f3ef</string>
 		<key>tableView</key>
 		<dict>
+			<key>sectionTitleLabel</key>
+			<dict>
+				<key>backgroundColor</key>
+				<string></string>
+				<key>textColor</key>
+				<string>#35312E</string>
+				<key>fontSize</key>
+				<string>16</string>
+			</dict>
 			<key>separatorInset</key>
 			<string>{0, 0, 0, 0}</string>
-			<key>rowHeight</key>
-			<string>100</string>
-			<key>cells</key>
-			<array>
+			<key>baseCell</key>
+			<dict>
+				<key>textLabel</key>
 				<dict>
-					<key>backgroundColor</key>
-					<string>#ffffff</string>
-					<key>textLabel</key>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>text</key>
+					<string>Order ID: 022118</string>
+				</dict>
+				<key>detailTextLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>14</string>
+					<key>text</key>
+					<string>11 May 2015</string>
+				</dict>
+				<key>imageView</key>
+				<dict>
+					<key>image</key>
+					<string>pics/viewOrderIcon.png</string>
+				</dict>
+				<key>rightButton</key>
+				<dict>
+					<key>image</key>
+					<string>pics/expendBtn.png</string>
+				</dict>
+			</dict>
+			<key>futureCell</key>
+			<dict>
+				<key>itemView</key>
+				<dict>
+					<key>nameLabel</key>
 					<dict>
+						<key>backgroundColor</key>
+						<string></string>
 						<key>textColor</key>
-						<string>#505050</string>
+						<string>#000000</string>
 						<key>fontSize</key>
-						<string>20</string>
+						<string>16</string>
 						<key>text</key>
-						<string>Order Id:20202</string>
+						<string>Lorem lpsum</string>
 					</dict>
-					<key>imageView</key>
+					<key>priceLabel</key>
 					<dict>
-						<key>image</key>
-						<string>pics/icon3.png</string>
+						<key>backgroundColor</key>
+						<string></string>
+						<key>textColor</key>
+						<string>#000000</string>
+						<key>fontSize</key>
+						<string>15</string>
+						<key>text</key>
+						<string>$38.99</string>
+					</dict>
+					<key>quantityLabel</key>
+					<dict>
+						<key>backgroundColor</key>
+						<string></string>
+						<key>textColor</key>
+						<string>#000000</string>
+						<key>fontSize</key>
+						<string>14</string>
+						<key>text</key>
+						<string>Quantity: 1</string>
 					</dict>
 				</dict>
+				<key>textLabel</key>
 				<dict>
-					<key>textLabel</key>
-					<dict>
-						<key>textColor</key>
-						<string>#505050</string>
-						<key>fontSize</key>
-						<string>20</string>
-						<key>text</key>
-						<string>Order Id:20202</string>
-					</dict>
-					<key>backgroundColor</key>
-					<string>#ffffff</string>
-					<key>imageView</key>
-					<dict>
-						<key>image</key>
-						<string>pics/icon3.png</string>
-					</dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>text</key>
+					<string>Order ID: 022118</string>
 				</dict>
-			</array>
+				<key>detailTextLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>14</string>
+					<key>text</key>
+					<string>11 May 2015</string>
+				</dict>
+				<key>imageView</key>
+				<dict>
+					<key>image</key>
+					<string>pics/viewOrderIcon.png</string>
+				</dict>
+				<key>rightButton</key>
+				<dict>
+					<key>image</key>
+					<string>pics/expendBtn.png</string>
+				</dict>
+			</dict>
+			<key>collectCell</key>
+			<dict>
+				<key>titleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>text</key>
+					<string>Dear Lorem lpsum</string>
+				</dict>
+				<key>subtitleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>16</string>
+					<key>text</key>
+					<string>Your order (Order ID:04356) is ready for pickup at</string>
+				</dict>
+				<key>locationLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>16</string>
+					<key>text</key>
+					<string>Chatswood store</string>
+				</dict>
+				<key>viewOrderButton</key>
+				<dict>
+					<key>image</key>
+					<string>pics/viewOrderIcon.png</string>
+					<key>title</key>
+					<string>View Order</string>
+					<key>titleColor</key>
+					<string>#202020</string>
+				</dict>
+				<key>locationButton</key>
+				<dict>
+					<key>titleColor</key>
+					<string>#8c9b47</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>title</key>
+					<string>Check the store location</string>
+					<key>image</key>
+					<string></string>
+					<key>backgroundImage</key>
+					<string>pics/pickOrderBtn.png</string>
+					<key>backgroundColor</key>
+					<string></string>
+				</dict>
+				<key>statusIconView</key>
+				<dict>
+					<key>image</key>
+					<string>pics/greenCheck@2x.png</string>
+				</dict>
+				<key>orderStatusLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>16</string>
+					<key>text</key>
+					<string>Your order is ready to pickup</string>
+				</dict>
+			</dict>
+			<key>readyCell</key>
+			<dict>
+				<key>titleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>text</key>
+					<string>Dear Lorem lpsum</string>
+				</dict>
+				<key>subtitleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>16</string>
+					<key>text</key>
+					<string>Your order (Order ID:04356) is ready for pickup at</string>
+				</dict>
+				<key>locationLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>16</string>
+					<key>text</key>
+					<string>Chatswood store</string>
+				</dict>
+				<key>viewOrderButton</key>
+				<dict>
+					<key>image</key>
+					<string>pics/viewOrderIcon.png</string>
+					<key>title</key>
+					<string>View Order</string>
+					<key>titleColor</key>
+					<string>#202020</string>
+				</dict>
+				<key>pickupButton</key>
+				<dict>
+					<key>titleColor</key>
+					<string>#8c9b47</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>title</key>
+					<string>Pickup order now</string>
+					<key>image</key>
+					<string></string>
+					<key>backgroundImage</key>
+					<string>pics/pickOrderBtn.png</string>
+					<key>backgroundColor</key>
+					<string></string>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 </dict>
