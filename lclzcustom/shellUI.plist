@@ -802,6 +802,8 @@
 				<dict>
 					<key>textColor</key>
 					<string>#000000</string>
+					<key>bold</key>
+					<string>1</string>
 					<key>fontSize</key>
 					<string>18</string>
 					<key>text</key>
@@ -818,6 +820,8 @@
 				</dict>
 				<key>locationLabel</key>
 				<dict>
+					<key>bold</key>
+					<string>1</string>
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
@@ -856,6 +860,8 @@
 				</dict>
 				<key>orderStatusLabel</key>
 				<dict>
+					<key>bold</key>
+					<string>1</string>
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
@@ -873,6 +879,8 @@
 				</dict>
 				<key>titleLabel</key>
 				<dict>
+					<key>bold</key>
+					<string>1</string>
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
@@ -891,6 +899,8 @@
 				</dict>
 				<key>locationLabel</key>
 				<dict>
+					<key>bold</key>
+					<string>1</string>
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
