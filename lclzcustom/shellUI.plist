@@ -716,12 +716,12 @@
 				<key>imageView</key>
 				<dict>
 					<key>image</key>
-					<string>pics/viewOrderIcon.png</string>
+					<string>pics/viewOrderIcon@3x.png</string>
 				</dict>
 				<key>rightButton</key>
 				<dict>
 					<key>image</key>
-					<string>pics/expendBtn.png</string>
+					<string>pics/expendBtn@3x.png</string>
 				</dict>
 			</dict>
 			<key>futureCell</key>
@@ -783,12 +783,12 @@
 				<key>imageView</key>
 				<dict>
 					<key>image</key>
-					<string>pics/viewOrderIcon.png</string>
+					<string>pics/viewOrderIcon@3x.png</string>
 				</dict>
 				<key>rightButton</key>
 				<dict>
 					<key>image</key>
-					<string>pics/expendBtn.png</string>
+					<string>pics/expendBtn@3x.png</string>
 				</dict>
 			</dict>
 			<key>collectCell</key>
@@ -901,7 +901,7 @@
 				<key>viewOrderButton</key>
 				<dict>
 					<key>image</key>
-					<string>pics/viewOrderIcon.png</string>
+					<string>pics/viewOrderIcon@3x.png</string>
 					<key>title</key>
 					<string>View Order</string>
 					<key>titleColor</key>
