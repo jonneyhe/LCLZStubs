@@ -793,6 +793,11 @@
 			</dict>
 			<key>collectCell</key>
 			<dict>
+				<key>imageView</key>
+				<dict>
+					<key>image</key>
+					<string>pics/pickOrderIcon.png</string>
+				</dict>
 				<key>titleLabel</key>
 				<dict>
 					<key>textColor</key>
@@ -861,6 +866,11 @@
 			</dict>
 			<key>readyCell</key>
 			<dict>
+				<key>imageView</key>
+				<dict>
+					<key>image</key>
+					<string>pics/pickOrderIcon.png</string>
+				</dict>
 				<key>titleLabel</key>
 				<dict>
 					<key>textColor</key>
