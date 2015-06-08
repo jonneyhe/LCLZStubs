@@ -1087,5 +1087,13 @@
 			<string></string>
 		</dict>
 	</dict>
+	<key>IndoorMapView</key>
+	<dict>
+		<key>mapImageView</key>
+		<dict>
+			<key>image</key>
+			<string>pics/demoMap.png</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
