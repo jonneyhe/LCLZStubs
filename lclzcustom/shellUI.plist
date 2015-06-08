@@ -569,6 +569,61 @@
 	<dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
+		<key>cartMenuView</key>
+		<dict>
+			<key>cartMenuTitleLabel</key>
+			<dict>
+				<key>backgroundColor</key>
+				<string></string>
+				<key>textColor</key>
+				<string>#000000</string>
+				<key>fontSize</key>
+				<string>20</string>
+				<key>text</key>
+				<string>Sunbeam</string>
+			</dict>
+			<key>cartMenusubtitleLabel</key>
+			<dict>
+				<key>backgroundColor</key>
+				<string></string>
+				<key>textColor</key>
+				<string>#000000</string>
+				<key>fontSize</key>
+				<string>18</string>
+				<key>text</key>
+				<string>Mixmaster 500W</string>
+			</dict>
+			<key>cartMenuContinueButton</key>
+			<dict>
+				<key>titleColor</key>
+				<string>#8c9b47</string>
+				<key>fontSize</key>
+				<string>16</string>
+				<key>title</key>
+				<string>Continue Shopping</string>
+				<key>image</key>
+				<string></string>
+				<key>backgroundImage</key>
+				<string>pics/shoppingCartBtn.png</string>
+				<key>backgroundColor</key>
+				<string></string>
+			</dict>
+			<key>cartMenuCheckoutButton</key>
+			<dict>
+				<key>titleColor</key>
+				<string>#8c9b47</string>
+				<key>fontSize</key>
+				<string>16</string>
+				<key>title</key>
+				<string>Check Out</string>
+				<key>image</key>
+				<string></string>
+				<key>backgroundImage</key>
+				<string></string>
+				<key>backgroundColor</key>
+				<string></string>
+			</dict>
+		</dict>
 		<key>shoppingCartButton</key>
 		<dict>
 			<key>titleColor</key>
