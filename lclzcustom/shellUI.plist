@@ -962,14 +962,14 @@
 						<key>textColor</key>
 						<string>#101010</string>
 						<key>fontSize</key>
-						<string>20</string>
+						<string>16</string>
 					</dict>
 					<key>detailTextLabel</key>
 					<dict>
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>18</string>
+						<string>16</string>
 					</dict>
 					<key>quantityButton</key>
 					<dict>
@@ -1010,7 +1010,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#FFFFFF</string>
+			<string>#000000</string>
 			<key>fontSize</key>
 			<string>18</string>
 			<key>text</key>
