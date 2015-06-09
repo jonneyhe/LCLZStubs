@@ -1095,5 +1095,60 @@
 			<string>pics/demoMap.png</string>
 		</dict>
 	</dict>
+	<key>PaymentView</key>
+	<dict>
+		<key>collectinStoreButton</key>
+		<dict>
+			<key>titleColor</key>
+			<string>#8c9b47</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>title</key>
+			<string>Collect in store</string>
+			<key>image</key>
+			<string></string>
+			<key>backgroundImage</key>
+			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundColor</key>
+			<string></string>
+		</dict>
+		<key>homeDeliveryButton</key>
+		<dict>
+			<key>titleColor</key>
+			<string>#8c9b47</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>title</key>
+			<string>Home delivery</string>
+			<key>image</key>
+			<string></string>
+			<key>backgroundImage</key>
+			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundColor</key>
+			<string></string>
+		</dict>
+		<key>headerLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#202020</string>
+			<key>fontSize</key>
+			<string>16</string>
+			<key>text</key>
+			<string></string>
+		</dict>
+		<key>payDescLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#202020</string>
+			<key>fontSize</key>
+			<string>16</string>
+			<key>text</key>
+			<string></string>
+		</dict>
+	</dict>
 </dict>
 </plist>
