@@ -1152,5 +1152,37 @@
 			<string>Pay with PayPal</string>
 		</dict>
 	</dict>
+	<key>PushLocateView</key>
+	<dict>
+		<key>infoBackgroundImageView</key>
+		<dict>
+			<key>image</key>
+			<string>pics/infoBg.png</string>
+		</dict>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
+		<key>infoLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#FFFFFF</string>
+			<key>fontSize</key>
+			<string>14</string>
+			<key>text</key>
+			<string>Our platform can bring to life a location-barse experience for your enterprise in under 10 minutes.</string>
+		</dict>
+		<key>descLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#000000</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>text</key>
+			<string>Silent Location</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
