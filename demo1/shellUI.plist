@@ -194,6 +194,8 @@
 					</dict>
 				</dict>
 				<dict>
+					<key>hidden</key>
+					<string>1</string>
 					<key>selectedColor</key>
 					<string>#eeeeee</string>
 					<key>textLabel</key>
@@ -212,6 +214,8 @@
 					</dict>
 				</dict>
 				<dict>
+					<key>hidden</key>
+					<string>1</string>
 					<key>selectedColor</key>
 					<string>#eeeeee</string>
 					<key>textLabel</key>
