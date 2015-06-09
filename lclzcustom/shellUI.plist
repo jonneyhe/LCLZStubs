@@ -1170,7 +1170,7 @@
 			<key>fontSize</key>
 			<string>14</string>
 			<key>text</key>
-			<string>Our platform can bring to life a location-barse experience for your enterprise in under 10 minutes.</string>
+			<string>This feature will determine if a device is withing rang of a registered location. It can also be used to rang distance between devices</string>
 		</dict>
 		<key>descLabel</key>
 		<dict>
