@@ -7,11 +7,11 @@
 		<key>navigationBar</key>
 		<dict>
 			<key>buttonColor</key>
-			<string>#ffffff</string>
+			<string>#eeeeee</string>
 			<key>titleColor</key>
-			<string>#ffffff</string>
+			<string>#eeeeee</string>
 			<key>backgroundColor</key>
-			<string>#e65b5e</string>
+			<string>#e69b9f</string>
 			<key>backgroundImage</key>
 			<string></string>
 		</dict>
@@ -24,7 +24,7 @@
 			<string>pics/infoBg.png</string>
 		</dict>
 		<key>backgroundColor</key>
-		<string>#f8f3ef</string>
+		<string>F8F3EA</string>
 		<key>tableView</key>
 		<dict>
 			<key>separatorInset</key>
@@ -32,16 +32,16 @@
 			<key>rowHeight</key>
 			<string>100</string>
 			<key>backgroundColor</key>
-			<string>#ffffff</string>
+			<string>eeeeee</string>
 			<key>separatorColor</key>
-			<string>#d8d8d8</string>
+			<string>E0E0E0</string>
 			<key>cells</key>
 			<array>
 				<dict>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#505050</string>
+						<string>707070</string>
 						<key>fontSize</key>
 						<string>20</string>
 						<key>text</key>
@@ -57,7 +57,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#505050</string>
+						<string>707070</string>
 						<key>fontSize</key>
 						<string>20</string>
 						<key>text</key>
@@ -73,7 +73,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#505050</string>
+						<string>707070</string>
 						<key>fontSize</key>
 						<string>20</string>
 						<key>text</key>
@@ -94,7 +94,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#505050</string>
+						<string>707070</string>
 						<key>fontSize</key>
 						<string>20</string>
 						<key>text</key>
@@ -132,14 +132,14 @@
 			<key>alpha</key>
 			<string>0.6</string>
 			<key>backgroundColor</key>
-			<string>#dddddd</string>
+			<string>DDDD6B</string>
 		</dict>
 		<key>infoLabel</key>
 		<dict>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#dfe4cb</string>
+			<string>DF84CB</string>
 			<key>fontSize</key>
 			<string>12</string>
 			<key>text</key>
@@ -152,18 +152,18 @@
 			<key>rowHeight</key>
 			<string>55</string>
 			<key>backgroundColor</key>
-			<string>#2b2b2b</string>
+			<string>2B512B</string>
 			<key>separatorColor</key>
-			<string>#4d4d4d</string>
+			<string>4D4D95</string>
 			<key>cells</key>
 			<array>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>617FA1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -177,11 +177,11 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>617FA1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -195,11 +195,11 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>617FA1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -213,11 +213,11 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>617FA1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -231,11 +231,11 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>617FA1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -255,7 +255,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -275,7 +275,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -289,11 +289,11 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>617FA1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#FFFFFF</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -312,18 +312,18 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#FFFFFF</string>
+			<string>5A5894</string>
 			<key>fontSize</key>
 			<string>22</string>
 			<key>text</key>
-			<string>Tony·Stark</string>
+			<string>Tim.Black</string>
 		</dict>
 		<key>detailsLabel</key>
 		<dict>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#FFFFFF</string>
+			<string>5A5894</string>
 			<key>fontSize</key>
 			<string>18</string>
 			<key>text</key>
@@ -363,7 +363,7 @@
 					<key>detailTextLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#ffffff</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>16</string>
 						<key>text</key>
@@ -372,7 +372,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#ffffff</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>16</string>
 						<key>text</key>
@@ -388,7 +388,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#ffffff</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>16</string>
 						<key>text</key>
@@ -397,7 +397,7 @@
 					<key>detailTextLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#ffffff</string>
+						<string>5A5894</string>
 						<key>fontSize</key>
 						<string>16</string>
 						<key>text</key>
@@ -423,7 +423,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>separatorColor</key>
-			<string>#f7f7f5</string>
+			<string>444444</string>
 			<key>cells</key>
 			<array>
 				<dict>
@@ -434,7 +434,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#000000</string>
+						<string>5BA1A5</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -454,7 +454,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#000000</string>
+						<string>5BA1A5</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -474,7 +474,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#000000</string>
+						<string>5BA1A5</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -494,7 +494,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#000000</string>
+						<string>5BA1A5</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -514,7 +514,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#000000</string>
+						<string>5BA1A5</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -534,7 +534,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#000000</string>
+						<string>5BA1A5</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -554,7 +554,7 @@
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
-						<string>#000000</string>
+						<string>5BA1A5</string>
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
@@ -572,7 +572,7 @@
 	<key>ProductView</key>
 	<dict>
 		<key>backgroundColor</key>
-		<string>#f8f3ef</string>
+		<string>F8F3C7</string>
 		<key>cartMenuView</key>
 		<dict>
 			<key>cartMenuTitleLabel</key>
@@ -580,7 +580,7 @@
 				<key>backgroundColor</key>
 				<string></string>
 				<key>textColor</key>
-				<string>#000000</string>
+				<string>64817F</string>
 				<key>fontSize</key>
 				<string>20</string>
 				<key>text</key>
@@ -591,7 +591,7 @@
 				<key>backgroundColor</key>
 				<string></string>
 				<key>textColor</key>
-				<string>#000000</string>
+				<string>64817F</string>
 				<key>fontSize</key>
 				<string>18</string>
 				<key>text</key>
@@ -717,7 +717,7 @@
 	<key>ProductExplorerView</key>
 	<dict>
 		<key>backgroundColor</key>
-		<string>#f8f3ef</string>
+		<string>F8F3C7</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
@@ -728,7 +728,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#FFFFFF</string>
+			<string>64FA7F</string>
 			<key>fontSize</key>
 			<string>14</string>
 			<key>text</key>
@@ -738,7 +738,7 @@
 	<key>ClickCollectView</key>
 	<dict>
 		<key>backgroundColor</key>
-		<string>#f8f3ef</string>
+		<string>F8F3C7</string>
 		<key>tableView</key>
 		<dict>
 			<key>sectionTitleLabel</key>
@@ -1002,7 +1002,7 @@
 			<string>pics/infoBg.png</string>
 		</dict>
 		<key>backgroundColor</key>
-		<string>#f8f3ef</string>
+		<string>F8F3C7</string>
 		<key>tableView</key>
 		<dict>
 			<key>separatorInset</key>
@@ -1058,7 +1058,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#FFFFFF</string>
+			<string>64FA7F</string>
 			<key>fontSize</key>
 			<string>14</string>
 			<key>text</key>
@@ -1069,7 +1069,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#000000</string>
+			<string>B6727F</string>
 			<key>fontSize</key>
 			<string>18</string>
 			<key>text</key>
@@ -1102,7 +1102,7 @@
 	<key>PaymentView</key>
 	<dict>
 		<key>backgroundColor</key>
-		<string>#f8f3ef</string>
+		<string>F8F3C7</string>
 		<key>collectinStoreButton</key>
 		<dict>
 			<key>titleColor</key>
@@ -1138,7 +1138,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#202020</string>
+			<string>B6727F</string>
 			<key>fontSize</key>
 			<string>16</string>
 			<key>text</key>
@@ -1149,7 +1149,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#202020</string>
+			<string>B6727F</string>
 			<key>fontSize</key>
 			<string>16</string>
 			<key>text</key>
@@ -1164,13 +1164,13 @@
 			<string>pics/infoBg.png</string>
 		</dict>
 		<key>backgroundColor</key>
-		<string>#f8f3ef</string>
+		<string>F8F3C7</string>
 		<key>infoLabel</key>
 		<dict>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#FFFFFF</string>
+			<string>B6FF7F</string>
 			<key>fontSize</key>
 			<string>14</string>
 			<key>text</key>
@@ -1181,7 +1181,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#000000</string>
+			<string>B6797F</string>
 			<key>fontSize</key>
 			<string>18</string>
 			<key>text</key>
