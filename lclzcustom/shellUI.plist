@@ -1097,6 +1097,8 @@
 	</dict>
 	<key>PaymentView</key>
 	<dict>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
 		<key>collectinStoreButton</key>
 		<dict>
 			<key>titleColor</key>
@@ -1136,7 +1138,7 @@
 			<key>fontSize</key>
 			<string>16</string>
 			<key>text</key>
-			<string></string>
+			<string>Would you like to</string>
 		</dict>
 		<key>payDescLabel</key>
 		<dict>
@@ -1147,7 +1149,7 @@
 			<key>fontSize</key>
 			<string>16</string>
 			<key>text</key>
-			<string></string>
+			<string>Pay with PayPal</string>
 		</dict>
 	</dict>
 </dict>
