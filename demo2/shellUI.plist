@@ -15,6 +15,11 @@
 			<key>backgroundImage</key>
 			<string></string>
 		</dict>
+		<key>productImagePlaceHolder</key>
+		<dict>
+			<key>image</key>
+			<string>pics/placeHolder.png</string>
+		</dict>
 	</dict>
 	<key>MainMenuView</key>
 	<dict>
