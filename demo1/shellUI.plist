@@ -23,6 +23,8 @@
 	</dict>
 	<key>MainMenuView</key>
 	<dict>
+		<key>title</key>
+		<string>Company Brand1</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
@@ -341,6 +343,8 @@
 	</dict>
 	<key>SpecialListView</key>
 	<dict>
+		<key>title</key>
+		<string>Specials &amp; Promotions</string>
 		<key>shoppingCartButton</key>
 		<dict>
 			<key>titleColor</key>
@@ -423,6 +427,8 @@
 	</dict>
 	<key>SpecialCategoryView</key>
 	<dict>
+		<key>title</key>
+		<string>Special Category</string>
 		<key>tableView</key>
 		<dict>
 			<key>separatorInset</key>
@@ -580,6 +586,8 @@
 	</dict>
 	<key>ProductView</key>
 	<dict>
+		<key>title</key>
+		<string>Product</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>cartMenuView</key>
@@ -725,6 +733,8 @@
 	</dict>
 	<key>ProductExplorerView</key>
 	<dict>
+		<key>title</key>
+		<string>Product Explorer</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>infoBackgroundImageView</key>
@@ -746,6 +756,8 @@
 	</dict>
 	<key>ClickCollectView</key>
 	<dict>
+		<key>title</key>
+		<string>Click &amp; Collect</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>tableView</key>
@@ -1005,6 +1017,8 @@
 	</dict>
 	<key>ShoppingCartView</key>
 	<dict>
+		<key>title</key>
+		<string>Shopping Cart</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
@@ -1102,6 +1116,8 @@
 	</dict>
 	<key>IndoorMapView</key>
 	<dict>
+		<key>title</key>
+		<string>Location</string>
 		<key>mapImageView</key>
 		<dict>
 			<key>image</key>
@@ -1110,6 +1126,8 @@
 	</dict>
 	<key>PaymentView</key>
 	<dict>
+		<key>title</key>
+		<string>Order &amp; Pay</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>collectinStoreButton</key>
@@ -1167,6 +1185,8 @@
 	</dict>
 	<key>PushLocateView</key>
 	<dict>
+		<key>title</key>
+		<string>Push Locate</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
