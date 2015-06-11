@@ -20,6 +20,11 @@
 			<key>image</key>
 			<string>pics/placeHolder.png</string>
 		</dict>
+		<key>appLaunchImage</key>
+		<dict>
+			<key>image</key>
+			<string>pics/splash.png</string>
+		</dict>
 	</dict>
 	<key>MainMenuView</key>
 	<dict>
@@ -28,6 +33,8 @@
 			<key>image</key>
 			<string>pics/infoBg.png</string>
 		</dict>
+		<key>title</key>
+		<string>Company Brand2</string>
 		<key>backgroundColor</key>
 		<string>F8F3EA</string>
 		<key>tableView</key>
@@ -352,6 +359,8 @@
 			<key>backgroundColor</key>
 			<string></string>
 		</dict>
+		<key>title</key>
+		<string>Specials &amp; Promotions</string>
 		<key>tableView</key>
 		<dict>
 			<key>separatorInset</key>
@@ -573,11 +582,15 @@
 				</dict>
 			</array>
 		</dict>
+		<key>title</key>
+		<string>Special Category</string>
 	</dict>
 	<key>ProductView</key>
 	<dict>
 		<key>backgroundColor</key>
 		<string>F8F3C7</string>
+		<key>title</key>
+		<string>Product</string>
 		<key>cartMenuView</key>
 		<dict>
 			<key>cartMenuTitleLabel</key>
@@ -723,6 +736,8 @@
 	<dict>
 		<key>backgroundColor</key>
 		<string>F8F3C7</string>
+		<key>title</key>
+		<string>Product Explorer</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
@@ -744,6 +759,8 @@
 	<dict>
 		<key>backgroundColor</key>
 		<string>F8F3C7</string>
+		<key>title</key>
+		<string>Click &amp; Collect</string>
 		<key>tableView</key>
 		<dict>
 			<key>sectionTitleLabel</key>
@@ -1008,6 +1025,8 @@
 		</dict>
 		<key>backgroundColor</key>
 		<string>F8F3C7</string>
+		<key>title</key>
+		<string>Shopping Cart</string>
 		<key>tableView</key>
 		<dict>
 			<key>separatorInset</key>
@@ -1103,11 +1122,15 @@
 			<key>image</key>
 			<string>pics/demoMap.png</string>
 		</dict>
+		<key>title</key>
+		<string>Location</string>
 	</dict>
 	<key>PaymentView</key>
 	<dict>
 		<key>backgroundColor</key>
 		<string>F8F3C7</string>
+		<key>title</key>
+		<string>Order &amp; Pay</string>
 		<key>collectinStoreButton</key>
 		<dict>
 			<key>titleColor</key>
@@ -1170,6 +1193,8 @@
 		</dict>
 		<key>backgroundColor</key>
 		<string>F8F3C7</string>
+		<key>title</key>
+		<string>Push Locate</string>
 		<key>infoLabel</key>
 		<dict>
 			<key>backgroundColor</key>
