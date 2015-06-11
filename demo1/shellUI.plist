@@ -20,6 +20,11 @@
 			<key>image</key>
 			<string>pics/placeHolder.png</string>
 		</dict>
+		<key>appLaunchImage</key>
+		<dict>
+			<key>image</key>
+			<string>pics/splash.png</string>
+		</dict>
 	</dict>
 	<key>MainMenuView</key>
 	<dict>
@@ -39,7 +44,7 @@
 			<key>rowHeight</key>
 			<string>100</string>
 			<key>backgroundColor</key>
-			<string>#ffffff</string>
+			<string>#f8f3ef</string>
 			<key>separatorColor</key>
 			<string>#d8d8d8</string>
 			<key>cells</key>
@@ -420,6 +425,31 @@
 					<dict>
 						<key>image</key>
 						<string>pics/special2.png</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>detailTextLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#ffffff</string>
+						<key>fontSize</key>
+						<string>16</string>
+						<key>text</key>
+						<string>Now $123.99</string>
+					</dict>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#ffffff</string>
+						<key>fontSize</key>
+						<string>16</string>
+						<key>text</key>
+						<string>Contrary to popular belief, Lorem lpsum</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string>pics/special1.png</string>
 					</dict>
 				</dict>
 			</array>
