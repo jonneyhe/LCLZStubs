@@ -4,6 +4,15 @@
 <dict>
 	<key>Global</key>
 	<dict>
+		<key>spotz</key>
+		<dict>
+			<key>appId</key>
+			<string>QbiAURuUQ9JUdL8X</string>
+			<key>appKey</key>
+			<string>EBUEflkzxmzHmHa31Fm0MgZ3KIr3FT9kdkLKd7rE</string>
+			<key>retailKey</key>
+			<string>Ah5JfpLA7Ikr28BKembcUEbLlwelaNGBYy8eSoIt</string>
+		</dict>
 		<key>navigationBar</key>
 		<dict>
 			<key>buttonColor</key>
