@@ -20,7 +20,7 @@
 			<key>titleColor</key>
 			<string>#ffffff</string>
 			<key>backgroundColor</key>
-			<string>#e65b5e</string>
+			<string>e65e5e</string>
 			<key>backgroundImage</key>
 			<string></string>
 		</dict>
@@ -153,7 +153,7 @@
 			<key>alpha</key>
 			<string>0.6</string>
 			<key>backgroundColor</key>
-			<string>#dddddd</string>
+			<string>#4d4d4d</string>
 		</dict>
 		<key>infoLabel</key>
 		<dict>
@@ -180,7 +180,7 @@
 			<array>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -198,7 +198,7 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -218,7 +218,7 @@
 					<key>hidden</key>
 					<string>1</string>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -238,7 +238,7 @@
 					<key>hidden</key>
 					<string>1</string>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -256,7 +256,7 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -276,7 +276,7 @@
 					<key>hidden</key>
 					<string>1</string>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -296,7 +296,7 @@
 					<key>hidden</key>
 					<string>1</string>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -314,7 +314,7 @@
 				</dict>
 				<dict>
 					<key>selectedColor</key>
-					<string>#eeeeee</string>
+					<string>7d7d7d</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
