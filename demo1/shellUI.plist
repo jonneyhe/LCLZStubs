@@ -705,7 +705,7 @@
 			<key>titleColor</key>
 			<string>#8c9b47</string>
 			<key>fontSize</key>
-			<string>16</string>
+			<string>18</string>
 			<key>title</key>
 			<string>Shopping Cart</string>
 			<key>image</key>
@@ -720,7 +720,7 @@
 			<key>titleColor</key>
 			<string>#8c9b47</string>
 			<key>fontSize</key>
-			<string>16</string>
+			<string>18</string>
 			<key>title</key>
 			<string>Add to Cart</string>
 			<key>image</key>
@@ -969,7 +969,7 @@
 					<key>image</key>
 					<string>pics/viewOrderIcon.png</string>
 					<key>title</key>
-					<string>View Order</string>
+					<string>View Order Invoice</string>
 					<key>titleColor</key>
 					<string>#202020</string>
 				</dict>
@@ -1048,7 +1048,7 @@
 					<key>image</key>
 					<string>pics/viewOrderIcon@2x.png</string>
 					<key>title</key>
-					<string>View Order</string>
+					<string>View Order Invoice</string>
 					<key>titleColor</key>
 					<string>#202020</string>
 				</dict>
