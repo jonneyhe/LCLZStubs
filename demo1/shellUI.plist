@@ -373,6 +373,10 @@
 			<string>pics/shoppingCartBtn.png</string>
 			<key>backgroundColor</key>
 			<string></string>
+			<key>highlightedBackgroundImage</key>
+			<string>pics/bigButtonSelectedBg.png</string>
+			<key>highlightedTitleColor</key>
+			<string>ffffff</string>
 		</dict>
 		<key>tableView</key>
 		<dict>
@@ -714,6 +718,10 @@
 			<string>pics/shoppingCartBtn.png</string>
 			<key>backgroundColor</key>
 			<string></string>
+			<key>highlightedBackgroundImage</key>
+			<string>pics/smallBtnSelectedBg.png</string>
+			<key>highlightedTitleColor</key>
+			<string>ffffff</string>
 		</dict>
 		<key>addCartButton</key>
 		<dict>
@@ -729,6 +737,10 @@
 			<string>pics/shoppingCartBtn.png</string>
 			<key>backgroundColor</key>
 			<string></string>
+			<key>highlightedBackgroundImage</key>
+			<string>pics/smallBtnSelectedBg.png</string>
+			<key>highlightedTitleColor</key>
+			<string>ffffff</string>
 		</dict>
 		<key>titleLabel</key>
 		<dict>
@@ -1167,6 +1179,10 @@
 			<string>pics/shoppingCartBtn.png</string>
 			<key>backgroundColor</key>
 			<string></string>
+			<key>highlightedBackgroundImage</key>
+			<string>pics/bigButtonSelectedBg.png</string>
+			<key>highlightedTitleColor</key>
+			<string>ffffff</string>
 		</dict>
 	</dict>
 	<key>IndoorMapView</key>
