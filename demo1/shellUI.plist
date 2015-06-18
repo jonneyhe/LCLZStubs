@@ -2,13 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>DemoIDView</key>
-	<dict>
-		<key>loadingText</key>
-		<string>Waiting...</string>
-		<key>loadingDetailsText</key>
-		<string>Downloading resources</string>
-	</dict>
 	<key>Global</key>
 	<dict>
 		<key>spotz</key>
@@ -93,7 +86,7 @@
 						<key>fontSize</key>
 						<string>20</string>
 						<key>text</key>
-						<string>Products explore</string>
+						<string>Products Explorer</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
@@ -227,7 +220,7 @@
 				</dict>
 				<dict>
 					<key>hidden</key>
-					<string>1</string>
+					<string>0</string>
 					<key>selectedColor</key>
 					<string>7d7d7d</string>
 					<key>textLabel</key>
@@ -237,7 +230,7 @@
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
-						<string>Click and Collect Orders</string>
+						<string>Specials &amp; Promotions</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
@@ -247,7 +240,7 @@
 				</dict>
 				<dict>
 					<key>hidden</key>
-					<string>1</string>
+					<string>0</string>
 					<key>selectedColor</key>
 					<string>7d7d7d</string>
 					<key>textLabel</key>
@@ -257,7 +250,7 @@
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
-						<string>Home Delivery Orders</string>
+						<string>Order History</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
@@ -275,7 +268,7 @@
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
-						<string>Order History</string>
+						<string>Products explore</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
@@ -285,7 +278,7 @@
 				</dict>
 				<dict>
 					<key>hidden</key>
-					<string>1</string>
+					<string>0</string>
 					<key>selectedColor</key>
 					<string>7d7d7d</string>
 					<key>textLabel</key>
@@ -295,7 +288,7 @@
 						<key>fontSize</key>
 						<string>18</string>
 						<key>text</key>
-						<string>Find store</string>
+						<string>Push locate</string>
 					</dict>
 					<key>imageView</key>
 					<dict>
@@ -353,17 +346,6 @@
 			<string>22</string>
 			<key>text</key>
 			<string>Tony·Stark</string>
-		</dict>
-		<key>detailsLabel</key>
-		<dict>
-			<key>backgroundColor</key>
-			<string></string>
-			<key>textColor</key>
-			<string>#FFFFFF</string>
-			<key>fontSize</key>
-			<string>18</string>
-			<key>text</key>
-			<string></string>
 		</dict>
 	</dict>
 	<key>SpecialListView</key>
