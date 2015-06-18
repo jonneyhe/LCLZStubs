@@ -1189,6 +1189,10 @@
 		<dict>
 			<key>titleColor</key>
 			<string>#8c9b47</string>
+			<key>selectedBackgroundImage</key>
+			<string>pics/bigButtonSelectedBg.png</string>
+			<key>selectedTitleColor</key>
+			<string>ffffff</string>
 			<key>fontSize</key>
 			<string>18</string>
 			<key>title</key>
@@ -1204,6 +1208,8 @@
 		<dict>
 			<key>titleColor</key>
 			<string>#8c9b47</string>
+			<key>selectedTitleColor</key>
+			<string>ffffff</string>
 			<key>fontSize</key>
 			<string>18</string>
 			<key>title</key>
@@ -1214,6 +1220,8 @@
 			<string>pics/shoppingCartBtn.png</string>
 			<key>backgroundColor</key>
 			<string></string>
+			<key>selectedBackgroundImage</key>
+			<string>pics/bigButtonSelectedBg.png</string>
 		</dict>
 		<key>headerLabel</key>
 		<dict>
