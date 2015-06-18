@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>DemoIDView</key>
+	<dict>
+		<key>loadingText</key>
+		<string>Waiting...</string>
+		<key>loadingDetailsText</key>
+		<string>Downloading resources</string>
+	</dict>
 	<key>Global</key>
 	<dict>
 		<key>spotz</key>
@@ -39,6 +46,10 @@
 	<dict>
 		<key>title</key>
 		<string>Company Brand1</string>
+		<key>loadingText</key>
+		<string>Waiting...</string>
+		<key>loadingDetailsText</key>
+		<string>Initialization data</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
