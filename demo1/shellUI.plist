@@ -37,6 +37,13 @@
 	</dict>
 	<key>MainMenuView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>image</key>
+			<string>pics/menuBarIcon.png</string>
+			<key>Comment</key>
+			<string>50 * 36</string>
+		</dict>
 		<key>title</key>
 		<string>Company Brand1</string>
 		<key>loadingText</key>
@@ -47,6 +54,8 @@
 		<dict>
 			<key>image</key>
 			<string>pics/infoBg.png</string>
+			<key>Comment</key>
+			<string>750 * 150</string>
 		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
@@ -55,7 +64,7 @@
 			<key>separatorInset</key>
 			<string>{0, 0, 0, 0}</string>
 			<key>rowHeight</key>
-			<string>100</string>
+			<string>104</string>
 			<key>backgroundColor</key>
 			<string>#f8f3ef</string>
 			<key>separatorColor</key>
@@ -76,6 +85,8 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon1.png</string>
+						<key>Comment</key>
+						<string>112 * 112</string>
 					</dict>
 				</dict>
 				<dict>
@@ -92,11 +103,11 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon2.png</string>
+						<key>Comment</key>
+						<string>112 * 112</string>
 					</dict>
 				</dict>
 				<dict>
-					<key>hidden</key>
-					<string>1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
@@ -110,11 +121,15 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon3.png</string>
+						<key>Comment</key>
+						<string>112 * 112</string>
 					</dict>
 					<key>rightImageView</key>
 					<dict>
 						<key>image</key>
 						<string>pics/icon3small.png</string>
+						<key>Comment</key>
+						<string>64 * 64</string>
 					</dict>
 				</dict>
 				<dict>
@@ -131,6 +146,8 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon4.png</string>
+						<key>Comment</key>
+						<string>112 * 112</string>
 					</dict>
 				</dict>
 			</array>
@@ -144,7 +161,7 @@
 			<key>fontSize</key>
 			<string>14</string>
 			<key>text</key>
-			<string>Our platform can bring to life a location-barse experience for your enterprise in under 10 minutes.</string>
+			<string>Our platform can bring to life a location-based experience for your enterprise in under 10 minutes.</string>
 		</dict>
 	</dict>
 	<key>MainLeftMenuView</key>
