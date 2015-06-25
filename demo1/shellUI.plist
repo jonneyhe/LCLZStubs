@@ -451,64 +451,6 @@
 						<string>750 * 460</string>
 					</dict>
 				</dict>
-				<dict>
-					<key>textLabel</key>
-					<dict>
-						<key>textColor</key>
-						<string>#ffffff</string>
-						<key>fontSize</key>
-						<string>16</string>
-						<key>text</key>
-						<string>Contrary to popular belief, Lorem lpsum</string>
-					</dict>
-					<key>detailTextLabel</key>
-					<dict>
-						<key>textColor</key>
-						<string>#ffffff</string>
-						<key>bold</key>
-						<string>1</string>
-						<key>fontSize</key>
-						<string>16</string>
-						<key>text</key>
-						<string>Now $123.99</string>
-					</dict>
-					<key>imageView</key>
-					<dict>
-						<key>image</key>
-						<string>pics/special2.png</string>
-						<key>Comment</key>
-						<string>750 * 460</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>detailTextLabel</key>
-					<dict>
-						<key>textColor</key>
-						<string>#ffffff</string>
-						<key>bold</key>
-						<string>1</string>
-						<key>fontSize</key>
-						<string>16</string>
-						<key>text</key>
-						<string>Now $123.99</string>
-					</dict>
-					<key>textLabel</key>
-					<dict>
-						<key>textColor</key>
-						<string>#ffffff</string>
-						<key>fontSize</key>
-						<string>16</string>
-						<key>text</key>
-						<string>Contrary to popular belief, Lorem lpsum</string>
-					</dict>
-					<key>imageView</key>
-					<dict>
-						<key>image</key>
-						<string>pics/special1.png</string>
-						<key>Comment</key>
-						<string>750 * 460</string>
-					</dict>
-				</dict>
 			</array>
 		</dict>
 	</dict>
