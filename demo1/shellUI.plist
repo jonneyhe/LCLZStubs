@@ -42,7 +42,7 @@
 			<key>image</key>
 			<string>pics/menuBarIcon.png</string>
 			<key>Comment</key>
-			<string>50 * 36</string>
+			<string>44 * 44</string>
 		</dict>
 		<key>title</key>
 		<string>Company Brand1</string>
@@ -77,7 +77,7 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>20</string>
+						<string>24</string>
 						<key>text</key>
 						<string>Specials &amp; Promotions</string>
 					</dict>
@@ -95,7 +95,7 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>20</string>
+						<string>24</string>
 						<key>text</key>
 						<string>Products Explorer</string>
 					</dict>
@@ -113,7 +113,7 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>20</string>
+						<string>24</string>
 						<key>text</key>
 						<string>Click &amp; Collect</string>
 					</dict>
@@ -138,7 +138,7 @@
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>20</string>
+						<string>24</string>
 						<key>text</key>
 						<string>Push Locate</string>
 					</dict>
@@ -401,6 +401,8 @@
 			<string></string>
 			<key>backgroundImage</key>
 			<string>pics/shoppingCartBtn.png</string>
+			<key>Comment</key>
+			<string>680 * 320</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>highlightedBackgroundImage</key>
@@ -413,7 +415,7 @@
 			<key>separatorInset</key>
 			<string>{0, 0, 0, 0}</string>
 			<key>rowHeight</key>
-			<string>200</string>
+			<string>246</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>separatorColor</key>
@@ -425,8 +427,10 @@
 					<dict>
 						<key>textColor</key>
 						<string>#ffffff</string>
+						<key>bold</key>
+						<string>1</string>
 						<key>fontSize</key>
-						<string>16</string>
+						<string>20</string>
 						<key>text</key>
 						<string>Now $123.99</string>
 					</dict>
@@ -435,7 +439,7 @@
 						<key>textColor</key>
 						<string>#ffffff</string>
 						<key>fontSize</key>
-						<string>16</string>
+						<string>18</string>
 						<key>text</key>
 						<string>Contrary to popular belief, Lorem lpsum</string>
 					</dict>
@@ -443,6 +447,8 @@
 					<dict>
 						<key>image</key>
 						<string>pics/special1.png</string>
+						<key>Comment</key>
+						<string>750 * 460</string>
 					</dict>
 				</dict>
 				<dict>
@@ -459,6 +465,8 @@
 					<dict>
 						<key>textColor</key>
 						<string>#ffffff</string>
+						<key>bold</key>
+						<string>1</string>
 						<key>fontSize</key>
 						<string>16</string>
 						<key>text</key>
@@ -468,6 +476,8 @@
 					<dict>
 						<key>image</key>
 						<string>pics/special2.png</string>
+						<key>Comment</key>
+						<string>750 * 460</string>
 					</dict>
 				</dict>
 				<dict>
@@ -475,6 +485,8 @@
 					<dict>
 						<key>textColor</key>
 						<string>#ffffff</string>
+						<key>bold</key>
+						<string>1</string>
 						<key>fontSize</key>
 						<string>16</string>
 						<key>text</key>
@@ -493,6 +505,8 @@
 					<dict>
 						<key>image</key>
 						<string>pics/special1.png</string>
+						<key>Comment</key>
+						<string>750 * 460</string>
 					</dict>
 				</dict>
 			</array>
