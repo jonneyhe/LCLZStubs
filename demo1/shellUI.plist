@@ -701,7 +701,7 @@
 			<key>image</key>
 			<string></string>
 			<key>backgroundImage</key>
-			<string>pics/shoppingCartBtn.png</string>
+			<string>pics/addCartBtn.png</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>highlightedBackgroundImage</key>
@@ -720,7 +720,7 @@
 			<key>image</key>
 			<string></string>
 			<key>backgroundImage</key>
-			<string>pics/shoppingCartBtn.png</string>
+			<string>pics/addCartBtn.png</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>highlightedBackgroundImage</key>
@@ -732,10 +732,12 @@
 		<dict>
 			<key>backgroundColor</key>
 			<string></string>
+			<key>bold</key>
+			<string>1</string>
 			<key>textColor</key>
 			<string>#000000</string>
 			<key>fontSize</key>
-			<string>22</string>
+			<string>34</string>
 			<key>text</key>
 			<string>Sunbeam</string>
 		</dict>
@@ -746,7 +748,9 @@
 			<key>textColor</key>
 			<string>#000000</string>
 			<key>fontSize</key>
-			<string>18</string>
+			<string>24</string>
+			<key>bold</key>
+			<string>1</string>
 			<key>text</key>
 			<string>Mixmaster 500W Food Mix</string>
 		</dict>
@@ -757,7 +761,7 @@
 			<key>textColor</key>
 			<string>#606060</string>
 			<key>fontSize</key>
-			<string>14</string>
+			<string>17</string>
 			<key>text</key>
 			<string>An innovative three-way beating action is part of what accounts for this 500W stand</string>
 		</dict>
@@ -768,7 +772,9 @@
 			<key>textColor</key>
 			<string>#000000</string>
 			<key>fontSize</key>
-			<string>14</string>
+			<string>19</string>
+			<key>bold</key>
+			<string>1</string>
 			<key>text</key>
 			<string>Price:</string>
 		</dict>
@@ -779,7 +785,9 @@
 			<key>textColor</key>
 			<string>#000000</string>
 			<key>fontSize</key>
-			<string>22</string>
+			<string>29</string>
+			<key>bold</key>
+			<string>1</string>
 			<key>text</key>
 			<string>$349.00</string>
 		</dict>
