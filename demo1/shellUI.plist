@@ -33,6 +33,8 @@
 		<dict>
 			<key>image</key>
 			<string>pics/splash.png</string>
+			<key>size:@2x</key>
+			<string>750 * 1334</string>
 		</dict>
 	</dict>
 	<key>MainMenuView</key>
@@ -41,7 +43,7 @@
 		<dict>
 			<key>image</key>
 			<string>pics/menuBarIcon.png</string>
-			<key>Comment</key>
+			<key>size:@2x</key>
 			<string>44 * 44</string>
 		</dict>
 		<key>title</key>
@@ -54,7 +56,7 @@
 		<dict>
 			<key>image</key>
 			<string>pics/infoBg.png</string>
-			<key>Comment</key>
+			<key>size:@2x</key>
 			<string>750 * 150</string>
 		</dict>
 		<key>backgroundColor</key>
@@ -85,7 +87,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon1.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>112 * 112</string>
 					</dict>
 				</dict>
@@ -103,7 +105,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon2.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>112 * 112</string>
 					</dict>
 				</dict>
@@ -121,14 +123,14 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon3.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>112 * 112</string>
 					</dict>
 					<key>rightImageView</key>
 					<dict>
 						<key>image</key>
 						<string>pics/icon3small.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>64 * 64</string>
 					</dict>
 				</dict>
@@ -146,7 +148,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon4.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>112 * 112</string>
 					</dict>
 				</dict>
@@ -170,7 +172,7 @@
 		<dict>
 			<key>image</key>
 			<string>pics/userAvatar.png</string>
-			<key>Comment</key>
+			<key>size:@2x</key>
 			<string>90 * 90</string>
 		</dict>
 		<key>separator</key>
@@ -219,7 +221,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon1.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -239,7 +241,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon2.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -261,7 +263,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon3.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -283,7 +285,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon4.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -303,7 +305,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon5.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -325,7 +327,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon6.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -347,7 +349,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon7.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -367,7 +369,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/leftIcon8.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>60 * 60</string>
 					</dict>
 				</dict>
@@ -401,12 +403,14 @@
 			<string></string>
 			<key>backgroundImage</key>
 			<string>pics/shoppingCartBtn.png</string>
-			<key>Comment</key>
-			<string>680 * 320</string>
+			<key>backgroundImage size:@2x</key>
+			<string>680 * 120</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>highlightedBackgroundImage</key>
 			<string>pics/bigButtonSelectedBg.png</string>
+			<key>highlightedBackgroundImage size:@2x</key>
+			<string>680 * 120</string>
 			<key>highlightedTitleColor</key>
 			<string>ffffff</string>
 		</dict>
@@ -447,7 +451,7 @@
 					<dict>
 						<key>image</key>
 						<string>pics/special1.png</string>
-						<key>Comment</key>
+						<key>size:@2x</key>
 						<string>750 * 460</string>
 					</dict>
 				</dict>
@@ -671,6 +675,8 @@
 				<string></string>
 				<key>backgroundImage</key>
 				<string>pics/shoppingCartBtn.png</string>
+				<key>backgroundImage size:@2x</key>
+				<string>610 * 120</string>
 				<key>backgroundColor</key>
 				<string></string>
 			</dict>
@@ -702,10 +708,14 @@
 			<string></string>
 			<key>backgroundImage</key>
 			<string>pics/addCartBtn.png</string>
+			<key>backgroundImage size:@2x</key>
+			<string>330 * 120</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>highlightedBackgroundImage</key>
 			<string>pics/smallBtnSelectedBg.png</string>
+			<key>highlightedBackgroundImage size:@2x</key>
+			<string>330 * 120</string>
 			<key>highlightedTitleColor</key>
 			<string>ffffff</string>
 		</dict>
@@ -721,10 +731,14 @@
 			<string></string>
 			<key>backgroundImage</key>
 			<string>pics/addCartBtn.png</string>
+			<key>backgroundImage size:@2x</key>
+			<string>330 * 120</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>highlightedBackgroundImage</key>
 			<string>pics/smallBtnSelectedBg.png</string>
+			<key>highlightedBackgroundImage size:@2x</key>
+			<string>330 * 120</string>
 			<key>highlightedTitleColor</key>
 			<string>ffffff</string>
 		</dict>
@@ -815,6 +829,8 @@
 		<dict>
 			<key>image</key>
 			<string>pics/infoBg.png</string>
+			<key>size:@2x</key>
+			<string>750 * 150</string>
 		</dict>
 		<key>infoLabel</key>
 		<dict>
@@ -871,11 +887,15 @@
 				<dict>
 					<key>image</key>
 					<string>pics/viewOrderIcon@2x.png</string>
+					<key>size:@2x</key>
+					<string>60 * 60</string>
 				</dict>
 				<key>rightButton</key>
 				<dict>
 					<key>image</key>
 					<string>pics/expendBtn@2x.png</string>
+					<key>size:@2x</key>
+					<string>80 * 80</string>
 				</dict>
 			</dict>
 			<key>futureCell</key>
@@ -938,11 +958,15 @@
 				<dict>
 					<key>image</key>
 					<string>pics/viewOrderIcon@2x.png</string>
+					<key>size:@2x</key>
+					<string>60 * 60</string>
 				</dict>
 				<key>rightButton</key>
 				<dict>
 					<key>image</key>
 					<string>pics/expendBtn@2x.png</string>
+					<key>size:@2x</key>
+					<string>80 * 80</string>
 				</dict>
 			</dict>
 			<key>collectCell</key>
@@ -951,6 +975,8 @@
 				<dict>
 					<key>image</key>
 					<string>pics/pickOrderIcon.png</string>
+					<key>size:@2x</key>
+					<string>184 * 184</string>
 				</dict>
 				<key>titleLabel</key>
 				<dict>
@@ -987,6 +1013,8 @@
 				<dict>
 					<key>image</key>
 					<string>pics/viewOrderIcon.png</string>
+					<key>size:@2x</key>
+					<string>60 * 60</string>
 					<key>title</key>
 					<string>View Order Invoice</string>
 					<key>titleColor</key>
@@ -1004,6 +1032,8 @@
 					<string></string>
 					<key>backgroundImage</key>
 					<string>pics/pickOrderBtn.png</string>
+					<key>backgroundImage size:@2x</key>
+					<string>620 * 120</string>
 					<key>backgroundColor</key>
 					<string></string>
 				</dict>
@@ -1011,6 +1041,8 @@
 				<dict>
 					<key>image</key>
 					<string>pics/greenCheck@2x.png</string>
+					<key>size:@2x</key>
+					<string>60 * 60</string>
 				</dict>
 				<key>orderStatusLabel</key>
 				<dict>
@@ -1030,6 +1062,8 @@
 				<dict>
 					<key>image</key>
 					<string>pics/pickOrderIcon.png</string>
+					<key>size:@2x</key>
+					<string>184 * 184</string>
 				</dict>
 				<key>titleLabel</key>
 				<dict>
@@ -1066,6 +1100,8 @@
 				<dict>
 					<key>image</key>
 					<string>pics/viewOrderIcon@2x.png</string>
+					<key>size:@2x</key>
+					<string>60 * 60</string>
 					<key>title</key>
 					<string>View Order Invoice</string>
 					<key>titleColor</key>
@@ -1083,6 +1119,8 @@
 					<string></string>
 					<key>backgroundImage</key>
 					<string>pics/pickOrderBtn.png</string>
+					<key>backgroundImage size:@2x</key>
+					<string>620 * 120</string>
 					<key>backgroundColor</key>
 					<string></string>
 				</dict>
@@ -1097,6 +1135,8 @@
 		<dict>
 			<key>image</key>
 			<string>pics/infoBg.png</string>
+			<key>size:@2x</key>
+			<string>750 * 150</string>
 		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
@@ -1105,7 +1145,7 @@
 			<key>separatorInset</key>
 			<string>{0, 0, 0, 0}</string>
 			<key>rowHeight</key>
-			<string>100</string>
+			<string>105</string>
 			<key>backgroundColor</key>
 			<string>#ffffff</string>
 			<key>separatorColor</key>
@@ -1139,6 +1179,8 @@
 						<string></string>
 						<key>backgroundImage</key>
 						<string>pics/quantityBtn.png</string>
+						<key>backgroundImage size:@2x</key>
+						<string>170 * 70</string>
 						<key>backgroundColor</key>
 						<string></string>
 					</dict>
@@ -1146,6 +1188,8 @@
 					<dict>
 						<key>image</key>
 						<string>pics/icon1.png</string>
+						<key>size:@2x</key>
+						<string>180 * 180</string>
 					</dict>
 				</dict>
 			</array>
@@ -1184,10 +1228,14 @@
 			<string></string>
 			<key>backgroundImage</key>
 			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundImage size:@2x</key>
+			<string>690 * 120</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>highlightedBackgroundImage</key>
 			<string>pics/bigButtonSelectedBg.png</string>
+			<key>highlightedBackgroundImage size:@2x</key>
+			<string>690 * 120</string>
 			<key>highlightedTitleColor</key>
 			<string>ffffff</string>
 		</dict>
@@ -1214,6 +1262,8 @@
 			<string>#8c9b47</string>
 			<key>selectedBackgroundImage</key>
 			<string>pics/bigButtonSelectedBg.png</string>
+			<key>selectedBackgroundImage size:@2x</key>
+			<string>690 * 120</string>
 			<key>selectedTitleColor</key>
 			<string>ffffff</string>
 			<key>fontSize</key>
@@ -1224,6 +1274,8 @@
 			<string></string>
 			<key>backgroundImage</key>
 			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundImage size:@2x</key>
+			<string>690 * 120</string>
 			<key>backgroundColor</key>
 			<string></string>
 		</dict>
@@ -1241,10 +1293,14 @@
 			<string></string>
 			<key>backgroundImage</key>
 			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundImage size:@2x</key>
+			<string>690 * 120</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>selectedBackgroundImage</key>
 			<string>pics/bigButtonSelectedBg.png</string>
+			<key>selectedBackgroundImage size:@2x</key>
+			<string>690 * 120</string>
 		</dict>
 		<key>headerLabel</key>
 		<dict>
@@ -1277,6 +1333,8 @@
 		<dict>
 			<key>image</key>
 			<string>pics/infoBg.png</string>
+			<key>size:@2x</key>
+			<string>750 * 184</string>
 		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
@@ -1298,9 +1356,11 @@
 			<key>textColor</key>
 			<string>#000000</string>
 			<key>fontSize</key>
-			<string>18</string>
+			<string>20</string>
 			<key>text</key>
 			<string>Silent Location</string>
+			<key>bold</key>
+			<string>1</string>
 		</dict>
 	</dict>
 </dict>
