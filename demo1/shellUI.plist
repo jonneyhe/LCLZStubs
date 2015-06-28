@@ -643,6 +643,8 @@
 		<dict>
 			<key>cartMenuTitleLabel</key>
 			<dict>
+				<key>bold</key>
+				<string>1</string>
 				<key>backgroundColor</key>
 				<string></string>
 				<key>textColor</key>
@@ -688,6 +690,65 @@
 				<string>16</string>
 				<key>title</key>
 				<string>Check Out</string>
+				<key>image</key>
+				<string></string>
+				<key>backgroundImage</key>
+				<string></string>
+				<key>backgroundColor</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>addItemMenuView</key>
+		<dict>
+			<key>itemNameLabel</key>
+			<dict>
+				<key>bold</key>
+				<string>1</string>
+				<key>backgroundColor</key>
+				<string></string>
+				<key>textColor</key>
+				<string>#000000</string>
+				<key>fontSize</key>
+				<string>20</string>
+				<key>text</key>
+				<string>Sunbeam</string>
+			</dict>
+			<key>itemDescLabel</key>
+			<dict>
+				<key>backgroundColor</key>
+				<string></string>
+				<key>textColor</key>
+				<string>#000000</string>
+				<key>fontSize</key>
+				<string>18</string>
+				<key>text</key>
+				<string>Mixmaster 500W</string>
+			</dict>
+			<key>itemDetailsBtn</key>
+			<dict>
+				<key>titleColor</key>
+				<string>#8c9b47</string>
+				<key>fontSize</key>
+				<string>16</string>
+				<key>title</key>
+				<string>Continue Shopping</string>
+				<key>image</key>
+				<string></string>
+				<key>backgroundImage</key>
+				<string>pics/shoppingCartBtn.png</string>
+				<key>backgroundImage size:@2x</key>
+				<string>610 * 120</string>
+				<key>backgroundColor</key>
+				<string></string>
+			</dict>
+			<key>addItemToCartBtn</key>
+			<dict>
+				<key>titleColor</key>
+				<string>#8c9b47</string>
+				<key>fontSize</key>
+				<string>16</string>
+				<key>title</key>
+				<string>Add to cart</string>
 				<key>image</key>
 				<string></string>
 				<key>backgroundImage</key>
