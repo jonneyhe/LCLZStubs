@@ -1268,6 +1268,8 @@
 		</dict>
 		<key>totalPriceLabel</key>
 		<dict>
+			<key>bold</key>
+			<string>1</string>
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
@@ -1276,6 +1278,17 @@
 			<string>18</string>
 			<key>text</key>
 			<string>$988</string>
+		</dict>
+		<key>orderTotalLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>#000000</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>text</key>
+			<string>Order Total:</string>
 		</dict>
 		<key>checkOutButton</key>
 		<dict>
