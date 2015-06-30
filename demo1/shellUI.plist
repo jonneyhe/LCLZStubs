@@ -929,7 +929,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Order ID: 022118</string>
 				</dict>
@@ -1000,7 +1000,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Order ID: 022118</string>
 				</dict>
@@ -1044,7 +1044,7 @@
 					<key>bold</key>
 					<string>1</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Dear Lorem lpsum</string>
 				</dict>
@@ -1053,7 +1053,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>16</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Your order (Order ID:04356) is ready for pickup at</string>
 				</dict>
@@ -1064,7 +1064,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>16</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Chatswood store</string>
 				</dict>
@@ -1076,6 +1076,8 @@
 					<string>60 * 60</string>
 					<key>title</key>
 					<string>View Order Invoice</string>
+					<key>fontSize</key>
+					<string>19</string>
 					<key>titleColor</key>
 					<string>#202020</string>
 				</dict>
@@ -1084,7 +1086,7 @@
 					<key>titleColor</key>
 					<string>#8c9b47</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>title</key>
 					<string>Check the store location</string>
 					<key>image</key>
@@ -1110,7 +1112,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>16</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Your order is ready to pickup</string>
 				</dict>
@@ -1131,7 +1133,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Dear Lorem lpsum</string>
 				</dict>
@@ -1140,7 +1142,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>16</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Your order (Order ID:04356) is ready for pickup at</string>
 				</dict>
@@ -1151,7 +1153,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>16</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Chatswood store</string>
 				</dict>
@@ -1163,6 +1165,8 @@
 					<string>60 * 60</string>
 					<key>title</key>
 					<string>View Order Invoice</string>
+					<key>fontSize</key>
+					<string>19</string>
 					<key>titleColor</key>
 					<string>#202020</string>
 				</dict>
@@ -1171,7 +1175,7 @@
 					<key>titleColor</key>
 					<string>#8c9b47</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>title</key>
 					<string>Pickup order now</string>
 					<key>image</key>
@@ -1212,7 +1216,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Order ID: 022118</string>
 				</dict>
@@ -1256,7 +1260,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>18</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Dear Lorem lpsum</string>
 				</dict>
@@ -1265,7 +1269,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>16</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Your order (Order ID:04356) is ready for pickup at</string>
 				</dict>
@@ -1276,7 +1280,7 @@
 					<key>textColor</key>
 					<string>#000000</string>
 					<key>fontSize</key>
-					<string>16</string>
+					<string>19</string>
 					<key>text</key>
 					<string>Chatswood store</string>
 				</dict>
@@ -1288,6 +1292,8 @@
 					<string>60 * 60</string>
 					<key>title</key>
 					<string>View Order Invoice</string>
+					<key>fontSize</key>
+					<string>19</string>
 					<key>titleColor</key>
 					<string>#202020</string>
 				</dict>
@@ -1336,14 +1342,16 @@
 						<key>textColor</key>
 						<string>#101010</string>
 						<key>fontSize</key>
-						<string>16</string>
+						<string>18</string>
 					</dict>
 					<key>detailTextLabel</key>
 					<dict>
+						<key>bold</key>
+						<string>1</string>
 						<key>textColor</key>
 						<string>#505050</string>
 						<key>fontSize</key>
-						<string>16</string>
+						<string>18</string>
 					</dict>
 					<key>quantityButton</key>
 					<dict>
@@ -1381,7 +1389,7 @@
 			<key>fontSize</key>
 			<string>14</string>
 			<key>text</key>
-			<string>Our platform can bring to life a location-barse experience for your enterprise in under 10 minutes.</string>
+			<string>Our platform can bring to life a location-based experience for your enterprise in under 10 minutes.</string>
 		</dict>
 		<key>totalPriceLabel</key>
 		<dict>
@@ -1498,7 +1506,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#202020</string>
+			<string>#404040</string>
 			<key>fontSize</key>
 			<string>16</string>
 			<key>text</key>
@@ -1509,7 +1517,7 @@
 			<key>backgroundColor</key>
 			<string></string>
 			<key>textColor</key>
-			<string>#202020</string>
+			<string>#404040</string>
 			<key>fontSize</key>
 			<string>16</string>
 			<key>text</key>
