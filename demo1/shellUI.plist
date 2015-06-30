@@ -1188,6 +1188,125 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>OrderAcknowledgementView</key>
+	<dict>
+		<key>title</key>
+		<string>Home Delivery Orders</string>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
+		<key>tableView</key>
+		<dict>
+			<key>sectionTitleLabel</key>
+			<dict>
+				<key>backgroundColor</key>
+				<string></string>
+				<key>textColor</key>
+				<string>#35312E</string>
+				<key>fontSize</key>
+				<string>16</string>
+			</dict>
+			<key>separatorInset</key>
+			<string>{0, 0, 0, 0}</string>
+			<key>baseCell</key>
+			<dict>
+				<key>textLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>text</key>
+					<string>Order ID: 022118</string>
+				</dict>
+				<key>detailTextLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>14</string>
+					<key>text</key>
+					<string>11 May 2015</string>
+				</dict>
+				<key>imageView</key>
+				<dict>
+					<key>image</key>
+					<string>pics/viewOrderIcon@2x.png</string>
+					<key>size:@2x</key>
+					<string>60 * 60</string>
+				</dict>
+				<key>rightButton</key>
+				<dict>
+					<key>image</key>
+					<string>pics/expendBtn@2x.png</string>
+					<key>size:@2x</key>
+					<string>80 * 80</string>
+				</dict>
+			</dict>
+			<key>deliverCell</key>
+			<dict>
+				<key>imageView</key>
+				<dict>
+					<key>image</key>
+					<string>pics/pickOrderIcon.png</string>
+					<key>size:@2x</key>
+					<string>184 * 184</string>
+				</dict>
+				<key>titleLabel</key>
+				<dict>
+					<key>bold</key>
+					<string>1</string>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>text</key>
+					<string>Dear Lorem lpsum</string>
+				</dict>
+				<key>subtitleLabel</key>
+				<dict>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>16</string>
+					<key>text</key>
+					<string>Your order (Order ID:04356) is ready for pickup at</string>
+				</dict>
+				<key>locationLabel</key>
+				<dict>
+					<key>bold</key>
+					<string>1</string>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>16</string>
+					<key>text</key>
+					<string>Chatswood store</string>
+				</dict>
+				<key>viewOrderButton</key>
+				<dict>
+					<key>image</key>
+					<string>pics/viewOrderIcon@2x.png</string>
+					<key>size:@2x</key>
+					<string>60 * 60</string>
+					<key>title</key>
+					<string>View Order Invoice</string>
+					<key>titleColor</key>
+					<string>#202020</string>
+				</dict>
+				<key>statusLabel</key>
+				<dict>
+					<key>bold</key>
+					<string>1</string>
+					<key>textColor</key>
+					<string>#000000</string>
+					<key>fontSize</key>
+					<string>18</string>
+					<key>text</key>
+					<string>Delivered</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
 	<key>ShoppingCartView</key>
 	<dict>
 		<key>title</key>
