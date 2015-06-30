@@ -709,7 +709,7 @@
 				<key>textColor</key>
 				<string>#000000</string>
 				<key>fontSize</key>
-				<string>20</string>
+				<string>19</string>
 				<key>text</key>
 				<string>Sunbeam</string>
 			</dict>
@@ -720,7 +720,7 @@
 				<key>textColor</key>
 				<string>#000000</string>
 				<key>fontSize</key>
-				<string>18</string>
+				<string>19</string>
 				<key>text</key>
 				<string>Mixmaster 500W</string>
 			</dict>
@@ -729,7 +729,7 @@
 				<key>titleColor</key>
 				<string>#8c9b47</string>
 				<key>fontSize</key>
-				<string>16</string>
+				<string>19</string>
 				<key>title</key>
 				<string>View details</string>
 				<key>image</key>
@@ -746,7 +746,7 @@
 				<key>titleColor</key>
 				<string>#8c9b47</string>
 				<key>fontSize</key>
-				<string>16</string>
+				<string>19</string>
 				<key>title</key>
 				<string>Add to cart</string>
 				<key>image</key>
