@@ -47,7 +47,7 @@
 			<string>44 * 44</string>
 		</dict>
 		<key>title</key>
-		<string>Company Brand1</string>
+		<string>Company Brand 1</string>
 		<key>loadingText</key>
 		<string>Waiting...</string>
 		<key>loadingDetailsText</key>
@@ -824,8 +824,6 @@
 			<string>#000000</string>
 			<key>fontSize</key>
 			<string>24</string>
-			<key>bold</key>
-			<string>1</string>
 			<key>text</key>
 			<string>Mixmaster 500W Food Mix</string>
 		</dict>
