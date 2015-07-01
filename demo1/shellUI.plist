@@ -630,6 +630,28 @@
 						<string></string>
 					</dict>
 				</dict>
+				<dict>
+					<key>selectedColor</key>
+					<string>#f8f3ef</string>
+					<key>backgroundColor</key>
+					<string>#FFFFFF</string>
+					<key>accessoryImage</key>
+					<string>pics/greenCheck.png</string>
+					<key>textLabel</key>
+					<dict>
+						<key>textColor</key>
+						<string>#000000</string>
+						<key>fontSize</key>
+						<string>18</string>
+						<key>text</key>
+						<string>Dairy</string>
+					</dict>
+					<key>imageView</key>
+					<dict>
+						<key>image</key>
+						<string></string>
+					</dict>
+				</dict>
 			</array>
 		</dict>
 	</dict>
