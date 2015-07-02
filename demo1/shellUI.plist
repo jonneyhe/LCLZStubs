@@ -393,6 +393,10 @@
 		<dict>
 			<key>title</key>
 			<string>Menu</string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
 		<key>title</key>
 		<string>Specials &amp; Promotions</string>
@@ -662,13 +666,17 @@
 	</dict>
 	<key>ProductView</key>
 	<dict>
+		<key>title</key>
+		<string>Product</string>
 		<key>leftNavbarButton</key>
 		<dict>
 			<key>title</key>
 			<string></string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
-		<key>title</key>
-		<string>Product</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>cartMenuView</key>
@@ -912,13 +920,17 @@
 	</dict>
 	<key>ProductExplorerView</key>
 	<dict>
+		<key>title</key>
+		<string>Product Explorer</string>
 		<key>leftNavbarButton</key>
 		<dict>
 			<key>title</key>
 			<string>Menu</string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
-		<key>title</key>
-		<string>Product Explorer</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>infoBackgroundImageView</key>
@@ -942,13 +954,17 @@
 	</dict>
 	<key>ClickCollectView</key>
 	<dict>
+		<key>title</key>
+		<string>Click &amp; Collect</string>
 		<key>leftNavbarButton</key>
 		<dict>
 			<key>title</key>
 			<string>Menu</string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
-		<key>title</key>
-		<string>Click &amp; Collect</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>tableView</key>
@@ -1242,13 +1258,17 @@
 	</dict>
 	<key>OrderAcknowledgementView</key>
 	<dict>
+		<key>title</key>
+		<string>Home Delivery Orders</string>
 		<key>leftNavbarButton</key>
 		<dict>
 			<key>title</key>
 			<string></string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
-		<key>title</key>
-		<string>Home Delivery Orders</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>tableView</key>
@@ -1368,13 +1388,17 @@
 	</dict>
 	<key>ShoppingCartView</key>
 	<dict>
+		<key>title</key>
+		<string>Shopping Cart</string>
 		<key>leftNavbarButton</key>
 		<dict>
 			<key>title</key>
 			<string></string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
-		<key>title</key>
-		<string>Shopping Cart</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
@@ -1511,13 +1535,17 @@
 	</dict>
 	<key>PaymentView</key>
 	<dict>
+		<key>title</key>
+		<string>Order &amp; Pay</string>
 		<key>leftNavbarButton</key>
 		<dict>
 			<key>title</key>
 			<string></string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
-		<key>title</key>
-		<string>Order &amp; Pay</string>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>collectinStoreButton</key>
@@ -1591,13 +1619,17 @@
 	</dict>
 	<key>PushLocateView</key>
 	<dict>
+		<key>title</key>
+		<string>Push Locate</string>
 		<key>leftNavbarButton</key>
 		<dict>
 			<key>title</key>
 			<string>Menu</string>
+			<key>image</key>
+			<string>pics/backIcon.png</string>
+			<key>size:@2x</key>
+			<string>44 * 44</string>
 		</dict>
-		<key>title</key>
-		<string>Push Locate</string>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
