@@ -389,6 +389,11 @@
 	</dict>
 	<key>SpecialListView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string>Menu</string>
+		</dict>
 		<key>title</key>
 		<string>Specials &amp; Promotions</string>
 		<key>shoppingCartButton</key>
@@ -657,6 +662,11 @@
 	</dict>
 	<key>ProductView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string></string>
+		</dict>
 		<key>title</key>
 		<string>Product</string>
 		<key>backgroundColor</key>
@@ -902,6 +912,11 @@
 	</dict>
 	<key>ProductExplorerView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string>Menu</string>
+		</dict>
 		<key>title</key>
 		<string>Product Explorer</string>
 		<key>backgroundColor</key>
@@ -927,6 +942,11 @@
 	</dict>
 	<key>ClickCollectView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string>Menu</string>
+		</dict>
 		<key>title</key>
 		<string>Click &amp; Collect</string>
 		<key>backgroundColor</key>
@@ -976,6 +996,10 @@
 					<key>image</key>
 					<string>pics/expendBtn@2x.png</string>
 					<key>size:@2x</key>
+					<string>80 * 80</string>
+					<key>selectedImage</key>
+					<string>pics/shrinkBtn@2x.png</string>
+					<key>selectedImage size:@2x</key>
 					<string>80 * 80</string>
 				</dict>
 			</dict>
@@ -1046,7 +1070,11 @@
 				<dict>
 					<key>image</key>
 					<string>pics/expendBtn@2x.png</string>
-					<key>size:@2x</key>
+					<key>image size:@2x</key>
+					<string>80 * 80</string>
+					<key>selectedImage</key>
+					<string>pics/shrinkBtn@2x.png</string>
+					<key>selectedImage size:@2x</key>
 					<string>80 * 80</string>
 				</dict>
 			</dict>
@@ -1214,6 +1242,11 @@
 	</dict>
 	<key>OrderAcknowledgementView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string></string>
+		</dict>
 		<key>title</key>
 		<string>Home Delivery Orders</string>
 		<key>backgroundColor</key>
@@ -1335,6 +1368,11 @@
 	</dict>
 	<key>ShoppingCartView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string></string>
+		</dict>
 		<key>title</key>
 		<string>Shopping Cart</string>
 		<key>infoBackgroundImageView</key>
@@ -1473,6 +1511,11 @@
 	</dict>
 	<key>PaymentView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string></string>
+		</dict>
 		<key>title</key>
 		<string>Order &amp; Pay</string>
 		<key>backgroundColor</key>
@@ -1548,6 +1591,11 @@
 	</dict>
 	<key>PushLocateView</key>
 	<dict>
+		<key>leftNavbarButton</key>
+		<dict>
+			<key>title</key>
+			<string>Menu</string>
+		</dict>
 		<key>title</key>
 		<string>Push Locate</string>
 		<key>infoBackgroundImageView</key>
