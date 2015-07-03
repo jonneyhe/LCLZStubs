@@ -110,6 +110,8 @@
 					</dict>
 				</dict>
 				<dict>
+					<key>hidden</key>
+					<string>1</string>
 					<key>textLabel</key>
 					<dict>
 						<key>textColor</key>
