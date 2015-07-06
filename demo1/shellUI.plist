@@ -391,15 +391,6 @@
 	</dict>
 	<key>SpecialListView</key>
 	<dict>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string>Menu</string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>title</key>
 		<string>Specials &amp; Promotions</string>
 		<key>shoppingCartButton</key>
@@ -670,15 +661,6 @@
 	<dict>
 		<key>title</key>
 		<string>Product</string>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string></string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>cartMenuView</key>
@@ -924,15 +906,6 @@
 	<dict>
 		<key>title</key>
 		<string>Product Explorer</string>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string>Menu</string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>infoBackgroundImageView</key>
@@ -958,15 +931,6 @@
 	<dict>
 		<key>title</key>
 		<string>Click &amp; Collect</string>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string>Menu</string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>tableView</key>
@@ -1262,15 +1226,6 @@
 	<dict>
 		<key>title</key>
 		<string>Home Delivery Orders</string>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string></string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>tableView</key>
@@ -1392,15 +1347,6 @@
 	<dict>
 		<key>title</key>
 		<string>Shopping Cart</string>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string></string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
@@ -1539,15 +1485,6 @@
 	<dict>
 		<key>title</key>
 		<string>Order &amp; Pay</string>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string></string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>backgroundColor</key>
 		<string>#f8f3ef</string>
 		<key>collectinStoreButton</key>
@@ -1623,15 +1560,6 @@
 	<dict>
 		<key>title</key>
 		<string>Push Locate</string>
-		<key>leftNavbarButton</key>
-		<dict>
-			<key>title</key>
-			<string>Menu</string>
-			<key>image</key>
-			<string>pics/backIcon.png</string>
-			<key>size:@2x</key>
-			<string>44 * 44</string>
-		</dict>
 		<key>infoBackgroundImageView</key>
 		<dict>
 			<key>image</key>
