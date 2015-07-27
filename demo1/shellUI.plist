@@ -1594,5 +1594,53 @@
 			<string>1</string>
 		</dict>
 	</dict>
+	<key>PopFormSheet</key>
+	<dict>
+		<key>title</key>
+		<string>Notification</string>
+		<key>backgroundColor</key>
+		<string>#f8f3ef</string>
+		<key>imageView</key>
+		<dict>
+			<key>image</key>
+			<string>pics/popFormImage@2x.png</string>
+			<key>size:@2x</key>
+			<string>568*360</string>
+		</dict>
+		<key>descLabel</key>
+		<dict>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>textColor</key>
+			<string>000000</string>
+			<key>fontSize</key>
+			<string>16</string>
+			<key>text</key>
+			<string>Please enable push notification, when you see the system prompt dialog. </string>
+		</dict>
+		<key>okButton</key>
+		<dict>
+			<key>titleColor</key>
+			<string>#8c9b47</string>
+			<key>fontSize</key>
+			<string>18</string>
+			<key>title</key>
+			<string>OK</string>
+			<key>image</key>
+			<string></string>
+			<key>backgroundImage</key>
+			<string>pics/shoppingCartBtn.png</string>
+			<key>backgroundImage size:@2x</key>
+			<string>690 * 120</string>
+			<key>backgroundColor</key>
+			<string></string>
+			<key>highlightedBackgroundImage</key>
+			<string>pics/bigButtonSelectedBg.png</string>
+			<key>highlightedBackgroundImage size:@2x</key>
+			<string>690 * 120</string>
+			<key>highlightedTitleColor</key>
+			<string>ffffff</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
